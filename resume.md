@@ -7,13 +7,13 @@ Markdown Resumé
 Interests
 ---------
 
-*   Creating beautiful resumés from simple Markdown documents
+*   Ruby on Rails development
 
 
 Work Experience
 ---------------
 
-*   **Word Processor** (Redmond, WA)
+*   **Word Processor** (Belarus, Minsk)
 
     Junior Resumé Maker, 2006 - 2007
 
