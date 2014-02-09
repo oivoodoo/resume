@@ -85,7 +85,7 @@ Work Experience
 Education
 ---------
 
-*   **Belarussian State of Informatics and Radioelectronics** (World Wide Web)
+*   **Belarussian State of Informatics and Radioelectronics**
 
     B.S. in Computer Science, May 2010
 
