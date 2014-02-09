@@ -1,71 +1,103 @@
-Markdown Resumé
+Alexandr Korsak
 ===============
 
-[Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
-<http://github.com/mwhite/resume>
+Contact
+-------
+
+*   Email: alex.korsak@gmail.com
+*   Skype: oivoodoo
+*   Phone: +375 297 41 54 66
+*   Github: https://github.com/oivoodoo
+*   Twitter: http://twitter.com/oivoodoo
 
 Interests
 ---------
 
-*   Ruby on Rails development
+*   Software Development using the latest edge of the technologies like Ruby,
+    NodeJS and expanding my skills in DevOps like Chef, Vagrant, Docker
 
 
 Work Experience
 ---------------
 
-*   **Word Processor** (Belarus, Minsk)
+*   **GameHouse**
 
-    Junior Resumé Maker, 2006 - 2007
+    Software Developer, 2012 - current
 
-    -   Intermingled presentation and content
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
+    -   Team and Tech Lead of Ruby and JavaScript developers.
+    -   Developing the application using Ruby on Rails, NodeJS, MongoDB, Redis,
+        AngularJS.
+    -   Working on the deployments tasks.
+    -   Developing the advertisement platform for the mobile devices.
+    -   Brainstom and prototype the new approach for some parts of the
+        application.
+    -   Writing specs and cucumber scenarios for integration tests for our api
+        endpoints.
 
-*   **\LaTeX\ + pdflatex**
+*   **Yardstick**
 
-    Senior Resumé Maker, 2008 - 2010
+    Software Developer, 2011 - 2012
 
-    -   Edited verbose \LaTeX\ documents in a text editor
-    -   Mixed content and presentation to achieve pixel-perfection
-    -   Installed and configured the unusual TeX setups required by the
-        best-looking \LaTeX\ resumés
+    -   Working on the Learning Management System
+    -   Developing using Ruby on Rails, PostgreSQL, MongoDB, Redis,
+        ElasticSearch, AngularJS, Unit Tests, RSpec.
+    -   Developing front end for the learners and teachers using AngularJS.
+    -   Writing RSpec, Unit Tests(red - green - refactor)
 
-*   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
+*   **TheHamon**
 
-    Web Resumé Intern, August 2010
+    Co-founder, Software Developer, 2011 - 2012
 
-    -   Entered data, adapting to different data models and formatting
-        limitations
-    -   Attempted to customize PDF exports and remove default resumé elements,
-        to no avail
+    -   Team Lead of Ruby and JavaScript developers and QA.
+    -   Working on the Risk Management Application
+    -   Developing front end and server side applications using Ruby on Rails,
+        MySQL, Redis, BackboneJS, RSpec, Cucumber
+    -   Writing Cucumber scenarios for getting approve from the client
+        before to start the development process.
+    -   Pairing with the team mates using Pomodoro Technique
 
-*   **Markdown with Pandoc**
+*   **Monterosa**
 
-    Resumé Architect, February 2011 - present
+    .NET / SharePoint Developer, May 2011 - November 2011
 
-    -   Write in one format (Markdown), convert to many formats (PDF, HTML, ODT,
-        DOCX, and more)
-    -   Style HTML output with CSS and PDF output with a custom \LaTeX\ header
-    -   Use a simple pre-processor to define per-format operations on the
-        Markdown input or its parts, such as moving contact information to the
-        top right of the page in both HTML and PDF output.
-    -   Use a text-based resumé when needed in a pinch
-    -   Use version control, including free hosting on Github
+    -   Developing the backend for the realtime tv show games.
+    -   Using Ruby on Rails, JavaScript, MySQL, Memcached for the faster
+        prototyping the real time shows because of a lot of changes in the game
+        scenarios while deveploment.
+
+*   **Belitsoft**
+
+    Software Developer, 2009 - 2011
+
+    -   Developing the SharePoint 2007/2010 and .NET standalone applications.
+    -   Working with JavaScript and C# for customizing SharePoint components.
+
+*   **Itransition**
+
+    Ruby / SharePoint Developer, 2007 - 2009
+
+    -   As Ruby developer I was working on the Facebook applications and small
+        projects similiar to groupon.com. Using Ruby on Rails, MySQL.
+    -   As SharePoint developer we were working in the really big team on the
+        complext document oriented system based on Microsoft SharePont 2007.
 
 
 Education
 ---------
 
-*   **Github University** (World Wide Web)
+*   **Belarussian State of Informatics and Radioelectronics** (World Wide Web)
 
-    B.S. in Submodules, May 2012
+    B.S. in Computer Science, May 2010
 
 
 Skills
 ------
 
-*   Very experienced with Python, Markdown, \LaTeX
+*   Very experienced with Ruby, JavaScript.
 
-*   Familiar with GNU Make, bash
+*   Ruby on Rails 2-4, NodeJS, AngularJS, RSpec, Cucumber, MongoDB, PostgreSQL
 
+*   Using RSpec, Cucumber and I know how to write unit tests at all.
+
+*   Using vim for the development
 
