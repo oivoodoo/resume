@@ -1,12 +1,13 @@
 Alexandr Korsak
 ===============
 
+
 Contact
--------
+--------
 
 *   Email: [alex.korsak@gmail.com](mailto:alex.korsak@gmail.com)
 *   Skype: [oivoodoo](skype:oivoodoo)
-*   Phone: +375 297 41 54 66
+*   Phone: +66 61 576 13 50, +375 297 41 54 66
 *   Github: [https://github.com/oivoodoo](https://github.com/oivoodoo)
 *   Twitter: [http://twitter.com/oivoodoo](http://twitter.com/oivoodoo)
 
@@ -14,7 +15,8 @@ Interests
 ---------
 
 *   Software Development using the latest edge of the technologies like Ruby,
-    NodeJS and expanding my skills in DevOps like Chef, Vagrant, Docker
+    NodeJS, Elixir and expanding my skills in DevOps like Chef, Ansible, Vagrant,
+    Docker.
 
 
 Work Experience
@@ -27,7 +29,8 @@ Work Experience
     -   Team and Tech Lead of Ruby and JavaScript developers.
     -   Developing the application using Ruby on Rails, NodeJS, MongoDB, Redis,
         AngularJS.
-    -   Working on the deployments tasks.
+    -   Working on the deployments tasks. Learning Ansible and Docker for
+        building container based hosts.
     -   Developing the advertisement platform for the mobile devices.
     -   Brainstom and prototype the new approach for some parts of the
         application.
@@ -36,7 +39,7 @@ Work Experience
 
 *   **Yardstick**
 
-    Software Developer, 2011 - 2012
+    Software Developer, 2011 - 2014
 
     -   Working on the Learning Management System
     -   Developing using Ruby on Rails, PostgreSQL, MongoDB, Redis,
@@ -78,8 +81,8 @@ Work Experience
 
     -   As Ruby developer I was working on the Facebook applications and small
         projects similiar to groupon.com. Using Ruby on Rails, MySQL.
-    -   As SharePoint developer we were working in the really big team on the
-        complext document oriented system based on Microsoft SharePont 2007.
+    -   As SharePoint developer we were working in the big team on the
+        complex document oriented system based on Microsoft SharePont 2007.
 
 
 Education
@@ -95,9 +98,9 @@ Skills
 
 *   Very experienced with Ruby, JavaScript.
 
-*   Ruby on Rails 2-4, NodeJS, AngularJS, RSpec, Cucumber, MongoDB, PostgreSQL
+*   Ruby on Rails 2-4, NodeJS, Elixir, AngularJS, RSpec, Cucumber, MongoDB, PostgreSQL
 
-*   Using RSpec, Cucumber and I know how to write unit tests at all.
+*   Using RSpec, Cucumber and other unit tests libraries
 
-*   Using vim for the development
+*   Using Vim / Tmux for the development
 
