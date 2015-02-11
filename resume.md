@@ -33,9 +33,9 @@ Work Experience
     -   Working on the deployments tasks. Learning Ansible and Docker for
         building container based hosts.
     -   Developing the advertisement platform for the mobile devices.
-    -   Brainstom and prototype the new approach for some parts of the
+    -   Brainstorm and prototype the new approach for some parts of the
         application.
-    -   Writing specs and cucumber scenarios for integration tests for our api
+    -   Writing specs and cucumber scenarios for integration tests for our API
         endpoints.
 
 *   **Yardstick**
