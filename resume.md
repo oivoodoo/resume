@@ -8,9 +8,9 @@ Contact
 *   Email: [alex.korsak@gmail.com](mailto:alex.korsak@gmail.com)
 *   Skype: [oivoodoo](skype:oivoodoo)
 *   Phone: +66 61 576 13 50, +375 297 41 54 66
-*   Github: [https://github.com/oivoodoo](https://github.com/oivoodoo)
-*   LinkedIn: [https://www.linkedin.com/pub/alexandr-korsak/10/14a/722/en](https://www.linkedin.com/pub/alexandr-korsak/10/14a/722/en)
-*   Twitter: [http://twitter.com/oivoodoo](http://twitter.com/oivoodoo)
+*   Github: [oivoodoo](https://github.com/oivoodoo)
+*   LinkedIn: [Alexandr Korsak](https://www.linkedin.com/pub/alexandr-korsak/10/14a/722/en)
+*   Twitter: [oivoodoo](http://twitter.com/oivoodoo)
 
 Interests
 ---------
