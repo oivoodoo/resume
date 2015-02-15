@@ -62,12 +62,10 @@ Work Experience
 
 *   **Monterosa**
 
-    .NET / SharePoint Developer, May 2011 - November 2011
+    Software Developer, May 2011 - November 2011
 
     -   Developing the backend for the realtime tv show games.
-    -   Using Ruby on Rails, JavaScript, MySQL, Memcached for the faster
-        prototyping the real time shows because of a lot of changes in the game
-        scenarios while deveploment.
+    -   Prototyping using Ruby on Rails, JavaScript, MySQL, Memcached.
 
 *   **Belitsoft**
 
@@ -80,9 +78,9 @@ Work Experience
 
     Ruby / SharePoint Developer, 2007 - 2009
 
-    -   As Ruby developer I was working on the Facebook applications and small
+    -   As a Ruby developer I was working on the Facebook applications and small
         projects similiar to groupon.com. Using Ruby on Rails, MySQL.
-    -   As SharePoint developer we were working in the big team on the
+    -   As a SharePoint developer we were working in the big team on the
         complex document oriented system based on Microsoft SharePont 2007.
 
 
@@ -97,11 +95,9 @@ Education
 Skills
 ------
 
-*   Very experienced with Ruby, JavaScript.
+*   Ruby (Sinatra, Grape, Ruby on Rails 2-4), NodeJS, Elixir, AngularJS, MongoDB, PostgreSQL
 
-*   Ruby on Rails 2-4, NodeJS, Elixir, AngularJS, RSpec, Cucumber, MongoDB, PostgreSQL
+*   RSpec, Cucumber and other unit tests libraries
 
-*   Using RSpec, Cucumber and other unit tests libraries
-
-*   Using Vim / Tmux for the development
+*   Vim / Tmux
 
