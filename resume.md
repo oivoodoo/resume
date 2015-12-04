@@ -7,7 +7,7 @@ Contact
 
 *   Email: [alex.korsak@gmail.com](mailto:alex.korsak@gmail.com)
 *   Skype: [oivoodoo](skype:oivoodoo)
-*   Phone: +66 61 576 13 50, +375 297 41 54 66
+*   Phone: +375 297 41 54 66
 *   Github: [oivoodoo](https://github.com/oivoodoo)
 *   LinkedIn: [Alexandr Korsak](https://www.linkedin.com/pub/alexandr-korsak/10/14a/722/en)
 *   Twitter: [oivoodoo](http://twitter.com/oivoodoo)
@@ -16,16 +16,30 @@ Interests
 ---------
 
 *   Software Development using the latest edge of the technologies like Ruby,
-    NodeJS, Elixir and expanding my skills in DevOps like Chef, Ansible, Vagrant,
-    Docker.
+    NodeJS, Elixir, Python, Scala and expanding my skills in DevOps like Ansible,
+    Vagrant, Docker.
 
+*   Worked with Apache Spark, Hive, Hadoop, Sqoop for processing big data that comes
+    from the advertisement platforms.
 
 Work Experience
 ---------------
 
+*   **Blastworks**
+
+    Software Developer, 2015 - current
+
+    -   Developing JavaScript(NodeJS) libraries for using for analytics and
+        recommendations from web sites.
+    -   Developing Spark streaming jobs for processing analytics that's coming
+        from Kafka and CDN.
+    -   Build tools using Python for data processing.
+    -   Ruby for making tools and reporting microservices.
+
+
 *   **GameHouse**
 
-    Software Developer, 2012 - current
+    Software Developer, 2012 - 2015
 
     -   Team and Tech Lead of Ruby and JavaScript developers.
     -   Developing the application using Ruby on Rails, NodeJS, MongoDB, Redis,
@@ -97,7 +111,12 @@ Skills
 
 *   Ruby (Sinatra, Grape, Ruby on Rails 2-4), NodeJS, Elixir, AngularJS, MongoDB, PostgreSQL
 
-*   RSpec, Cucumber and other unit tests libraries
+*   Apache Spark, Hadoop, Hive, Sqoop
 
-*   Vim / Tmux
+*   Amazon EMR for deploying steps like Apache Streaming jobs, hadoop and hive
+    solutions.
+
+*   TDD in Ruby, NodeJS, Python, Scala
+
+*   Tmux / Emacs / Vim
 
