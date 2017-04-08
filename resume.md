@@ -7,20 +7,21 @@ Contact
 
 *   Email: [alex.korsak@gmail.com](mailto:alex.korsak@gmail.com)
 *   Skype: [oivoodoo](skype:oivoodoo)
-*   Phone: +375 297 41 54 66
 *   Github: [oivoodoo](https://github.com/oivoodoo)
 *   LinkedIn: [Alexandr Korsak](https://www.linkedin.com/pub/alexandr-korsak/10/14a/722/en)
 *   Twitter: [oivoodoo](http://twitter.com/oivoodoo)
+*   Phone: +375 297 41 54 66
 
 Interests
 ---------
 
 *   Software Development using the latest edge of the technologies like Ruby,
-    NodeJS, Elixir, Python, Scala and expanding my skills in DevOps like Ansible,
+    NodeJS, Elixir, Python, Scala, Golang and expanding my skills in DevOps like Ansible,
     Vagrant, Docker.
 
-*   Worked with Apache Spark, Hive, Hadoop, Sqoop for processing big data that comes
-    from the advertisement platforms.
+*   Increasing knowledge in Apache Spark, Hive, Hadoop for processing Big Data that comes
+    from the advertisement platforms, learning recommendation engines and
+    approaches.
 
 Work Experience
 ---------------
@@ -29,13 +30,17 @@ Work Experience
 
     Software Developer, 2015 - current
 
-    -   Developing JavaScript(NodeJS) libraries for using for analytics and
-        recommendations from web sites.
+    -   Developing servers for provision and deploy clusters using Golang,
+        Ansible, Python modules to support EMR clusters.
+    -   Build tools using Python for ETL
+    -   Dockerization of our tools for easy testing before deployment
+        to production env.
+    -   Ruby for making tools and test cases for Apache Hive, Logstash,
+        ElasticSearch
     -   Developing Spark streaming jobs for processing analytics that's coming
         from Kafka and CDN.
-    -   Build tools using Python for data processing.
-    -   Ruby for making tools and reporting microservices.
-
+    -   Developing JavaScript(NodeJS) libraries for using for analytics and
+        recommendations from web sites.
 
 *   **GameHouse**
 
@@ -51,6 +56,20 @@ Work Experience
         application.
     -   Writing specs and cucumber scenarios for integration tests for our API
         endpoints.
+
+*   **Musicfeed**
+
+    Co-founder of [http://musicfeed.co](http://musicfeed.co/) . iOS application
+    for getting suggestions based on facebook feeds and user's friends. Aggregator
+    is working with Soundcloud, YouTube, Spotify, Mixcloud and other providers.
+
+    Technologies:
+
+    - Ruby for intercommunication between music services and aggregator of feeds
+    - Elixir for aggregating and crawling feeds using Facebook graph
+      api.
+    - RabbitMQ for communication between Ruby and Elixir.
+    - PostgreSQL, Redis, ElasticSearch
 
 *   **Yardstick**
 
@@ -109,7 +128,9 @@ Education
 Skills
 ------
 
-*   Ruby (Sinatra, Grape, Ruby on Rails 2-4), NodeJS, Elixir, AngularJS, MongoDB, PostgreSQL
+*   Ruby (Sinatra, Grape, Ruby on Rails 2-4), NodeJS, Elixir, AngularJS, MongoDB,
+    PostgreSQL, ElasticSearch, Apache Hive, Hadoop, Amazon Services, Ansible,
+    Logstash, Docker
 
 *   Apache Spark, Hadoop, Hive, Sqoop
 
@@ -119,4 +140,3 @@ Skills
 *   TDD in Ruby, NodeJS, Python, Scala
 
 *   Tmux / Emacs / Vim
-
