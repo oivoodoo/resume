@@ -9,6 +9,7 @@ Contact
 *   Skype: [oivoodoo](skype:oivoodoo)
 *   Github: [oivoodoo](https://github.com/oivoodoo)
 *   LinkedIn: [Alexandr Korsak](https://www.linkedin.com/pub/alexandr-korsak/10/14a/722/en)
+*   Blog(medium): [oivoodoo](https://medium.com/@oivoodoo)
 *   Twitter: [oivoodoo](http://twitter.com/oivoodoo)
 *   Phone: +375 297 41 54 66
 
