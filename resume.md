@@ -6,23 +6,27 @@ Contact
 --------
 
 *   Email: [alex.korsak@gmail.com](mailto:alex.korsak@gmail.com)
-*   Skype: [oivoodoo](skype:oivoodoo)
 *   Github: [oivoodoo](https://github.com/oivoodoo)
 *   LinkedIn: [Alexandr Korsak](https://www.linkedin.com/pub/alexandr-korsak/10/14a/722/en)
 *   Blog(medium): [oivoodoo](https://medium.com/@oivoodoo)
 *   Twitter: [oivoodoo](http://twitter.com/oivoodoo)
-*   Phone: +375 297 41 54 66
+*   Dev.to: [dev.to/@oivoodoo](https://dev.to/@oivoodoo)
+*   Skype: [oivoodoo](skype:oivoodoo)
+*   Phone: +34 603 72 78 46
+*   Location: Barcelona, Spain
 
 Interests
 ---------
 
 *   Software Development using the latest edge of the technologies like Ruby,
-    NodeJS, Elixir, Python, Scala, Golang and expanding my skills in DevOps like Ansible,
+    JavaScript, Elixir, Python, Scala, Golang and expanding my skills in DevOps like Ansible,
     Vagrant, Docker.
 
-*   Increasing knowledge in Apache Spark, Hive, Hadoop for processing Big Data that comes
+*   Increasing knowledge in Apache Spark, Apache Hive, Apache Hadoop for processing Big Data that comes
     from the advertisement platforms, learning recommendation engines and
     approaches.
+
+*   Learning Kubernetes, deployed my own clusters to Digital Ocean.
 
 Work Experience
 ---------------
