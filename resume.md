@@ -8,10 +8,10 @@ Contact
 *   Email: [alex.korsak@gmail.com](mailto:alex.korsak@gmail.com)
 *   Github: [oivoodoo](https://github.com/oivoodoo)
 *   LinkedIn: [Alexandr Korsak](https://www.linkedin.com/pub/alexandr-korsak/10/14a/722/en)
-*   Blog(medium): [oivoodoo](https://medium.com/@oivoodoo)
 *   Twitter: [oivoodoo](http://twitter.com/oivoodoo)
-*   Dev.to: [dev.to/@oivoodoo](https://dev.to/@oivoodoo)
 *   Skype: [oivoodoo](skype:oivoodoo)
+*   Blog(Dev.to): [oivoodoo](https://dev.to/@oivoodoo)
+*   Blog(medium): [oivoodoo](https://medium.com/@oivoodoo)
 *   Phone: +34 603 72 78 46
 *   Location: Barcelona, Spain
 
@@ -20,7 +20,7 @@ Interests
 
 *   Software Development using the latest edge of the technologies like Ruby,
     JavaScript, Elixir, Python, Scala, Golang and expanding my skills in DevOps like Ansible,
-    Vagrant, Docker.
+    Vagrant, Docker, Kubernetes
 
 *   Increasing knowledge in Apache Spark, Apache Hive, Apache Hadoop for processing Big Data that comes
     from the advertisement platforms, learning recommendation engines and
@@ -46,6 +46,16 @@ Work Experience
         from Kafka and CDN.
     -   Developing JavaScript(NodeJS) libraries for using for analytics and
         recommendations from web sites.
+
+*   **Flexe**
+
+    Software Developer, 2017 - 2019
+
+    - Developing dashboard and api layers using Ruby(Rails), JS \
+    - Used Go lang to build the microservice to generate and print out
+      barcodes and metadata based on the docs templates using Jinja template
+      language.
+    - Supporting React.JS dashboard for admin pages.
 
 *   **GameHouse**
 
