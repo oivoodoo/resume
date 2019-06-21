@@ -7,6 +7,7 @@ Contact
 
 *   Email: [alex.korsak@gmail.com](mailto:alex.korsak@gmail.com)
 *   Github: [oivoodoo](https://github.com/oivoodoo)
+*   Gitlab: [oivoodoo](https://gitlab.com/oivoodoo)
 *   LinkedIn: [Alexandr Korsak](https://www.linkedin.com/pub/alexandr-korsak/10/14a/722/en)
 *   Twitter: [oivoodoo](http://twitter.com/oivoodoo)
 *   Skype: [oivoodoo](skype:oivoodoo)
@@ -23,10 +24,7 @@ Interests
     Vagrant, Docker, Kubernetes
 
 *   Increasing knowledge in Apache Spark, Apache Hive, Apache Hadoop for processing Big Data that comes
-    from the advertisement platforms, learning recommendation engines and
-    approaches.
-
-*   Learning Kubernetes, deployed my own clusters to Digital Ocean.
+    from the advertisement platforms, game analytics, recommendation engines.
 
 Work Experience
 ---------------
@@ -37,25 +35,22 @@ Work Experience
 
     -   Developing servers for provision and deploy clusters using Golang,
         Ansible, Python modules to support EMR clusters.
-    -   Build tools using Python for ETL
+    -   Build tools using Python for ETL, Ruby for local services
     -   Dockerization of our tools for easy testing before deployment
         to production env.
     -   Ruby for making tools and test cases for Apache Hive, Logstash,
         ElasticSearch
     -   Developing Spark streaming jobs for processing analytics that's coming
         from Kafka and CDN.
-    -   Developing JavaScript(NodeJS) libraries for using for analytics and
-        recommendations from web sites.
+    -   Developing dashboard for internal usage using JavaScript engines (VueJS).
 
-*   **Flexe**
+*   **Flexe** (remote consulting)
 
     Software Developer, 2017 - 2019
 
-    - Developing dashboard and api layers using Ruby(Rails), JS \
-    - Used Go lang to build the microservice to generate and print out
-      barcodes and metadata based on the docs templates using Jinja template
-      language.
-    - Supporting React.JS dashboard for admin pages.
+    - Ruby, JavaScript development company's internal dashboards for managing warehouses, items shipments.
+    - Golang used to build their barcode service for shipments.
+    - Support dashboard build on ReactJS
 
 *   **GameHouse**
 
@@ -135,7 +130,7 @@ Work Experience
 Education
 ---------
 
-*   **Belarussian State of Informatics and Radioelectronics**
+*   **Belarussian State University of Informatics and Radioelectronics**
 
     B.S. in Computer Science, May 2010
 
