@@ -13,6 +13,8 @@ Contact
 *   Skype: [oivoodoo](skype:oivoodoo)
 *   Blog(Dev.to): [oivoodoo](https://dev.to/@oivoodoo)
 *   Blog(medium): [oivoodoo](https://medium.com/@oivoodoo)
+*   My Games [Google Play Games](https://play.google.com/store/apps/dev?id=6488507155306346112)
+*   My Apps [Google Play Apps](https://play.google.com/store/apps/developer?id=Bitscorp)
 *   Phone: +34 603 72 78 46
 *   Location: Barcelona, Spain
 
@@ -29,9 +31,17 @@ Interests
 Work Experience
 ---------------
 
+*   **Eyelevel / Medigital**
+
+    Software Developer, 2021 - current
+
+    -   Developing endpoints for mobile appications by using Elixir
+    -   DevOps by Kubernetes
+    -   Mobile development using Expo, ReactNative
+
 *   **Blastworks**
 
-    Software Developer, 2015 - current
+    Software Developer, 2015 - 2021
 
     -   Developing servers for provision and deploy clusters using Golang,
         Ansible, Python modules to support EMR clusters.
